@@ -1,8 +1,9 @@
 
-HEAD
-====
+v2.15 (2021-02-05)
+==================
 Enhancements:
 - support for Linux up to 4.15
+- xt_lscan: add --mirai option
 
 
 v2.14 (2017-11-22)
